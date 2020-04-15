@@ -1,0 +1,3 @@
+/home/jackfrac/TestTask/Task2/Cmake/CMakeFiles/rebuild_cache.dir
+/home/jackfrac/TestTask/Task2/Cmake/CMakeFiles/find_largest_sum.dir
+/home/jackfrac/TestTask/Task2/Cmake/CMakeFiles/edit_cache.dir
